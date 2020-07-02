@@ -8,27 +8,5 @@
 <h1>Italië</h1>
 <p>Bezienswaardigheden</p>
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Rivieren')">Rivieren</button>
-  <button class="tablinks" onclick="openCity(event, 'Steden')">Steden</button>
-  <button class="tablinks" onclick="openCity(event, 'Italiaanse_keuken')">Italiaanse keuken</button>
-</div>
-
-<!-- Tab content -->
-<div id="Rivieren" class="tabcontent">
-  <h3>Rivieren</h3>
-  <p>Rivieren.</p>
-</div>
-
-<div id="Steden" class="tabcontent">
-  <h3>Steden</h3>
-  <p>Steden.</p> 
-</div>
-
-<div id="Italiaanse_keuken" class="tabcontent">
-  <h3>Italiaanse keuken</h3>
-  <p>Italiaanse keuken.</p>
-</div>
 </body>
 </html>
